@@ -1,2 +1,0 @@
-# gym-web
-HTML + CSS
